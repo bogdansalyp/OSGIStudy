@@ -1,2 +1,6 @@
 # OS X files
 .DS_Store
+
+# Java files
+~
+target
